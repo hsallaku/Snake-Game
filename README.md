@@ -13,8 +13,8 @@ This is a simple Snake Game implemented in C#. The objective of the game is to c
 ## Technologies
 
 The project is created with:
-* C# 11.0
-* .NET 7.0
+* C# 10.0
+* .NET 6.0
 * Windows Presentation Foundation (WPF)
 
 ## Setup
