@@ -25,8 +25,9 @@ https://github.com/hsallaku/Snake-Game.git
 3) Follow the instructions on the pop-up window and try the game.
 
 ## How to Play
-Use the arrow keys on your keyboard to control the direction of the snake.
-The snake will move in the direction of the arrow key pressed.
-Eat the food (symbolized as a "*") that appears randomly on the screen to gain points and increase the length of the snake.
-Avoid hitting the screen boundary or the snake's own body.
-Try to achieve your highest score!
+Use the "WASD" keys on your keyboard to control the direction of the snake.
+W-Up A-Left S-Down D-Right
+Try to move the snake so it reaches and eats the apple represented by a red dot.
+Each time the snake eats an apple the score increases by 1.
+If the snake eats part of its body or hits the boundaries it's game over.
+The goal is to try to get the highest score.
